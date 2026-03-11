@@ -167,8 +167,7 @@ const drinksData = [
     name: "Orange Glow",
     price: "$7.00",
     tag: "Smooth",
-    image:
-      "https://images.unsplash.com/photo-1524594154908-edd9acfdce6c?w=600&q=80",
+    image: "images/orange-glow.jpg",
     desc: "Orange juice with citrus bubbles.",
     gradient: "linear-gradient(90deg,#fb923c,#f97316)",
   },
