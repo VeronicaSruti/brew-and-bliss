@@ -7,8 +7,7 @@ const drinksData = [
     name: "Tropical Sunset",
     price: "$7.50",
     tag: "Bestseller",
-    image:
-      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=600&q=80",
+    image: "images/tropical-sunset.jpg",
     desc: "Mango, passionfruit, coconut water with a chilli-salt rim.",
     gradient: "linear-gradient(90deg,#f97316,#fbbf24)",
   },
@@ -31,8 +30,7 @@ const drinksData = [
     name: "Golden Mango",
     price: "$7.00",
     tag: "Signature",
-    image:
-      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
+    image: "images/golden-mango.jpg",
     desc: "Fresh mango puree with citrus sparkle.",
     gradient: "linear-gradient(90deg,#f59e0b,#f97316)",
   },
@@ -43,8 +41,7 @@ const drinksData = [
     name: "Coconut Breeze",
     price: "$6.90",
     tag: "Smooth",
-    image:
-      "https://images.unsplash.com/photo-1497534446932-c925b458314e?w=600&q=80",
+    image: "images/coconut-breeze.jpg",
     desc: "Coconut water, lime and pineapple foam.",
     gradient: "linear-gradient(90deg,#fbbf24,#f97316)",
   },
@@ -80,8 +77,7 @@ const drinksData = [
     name: "Crimson Cooler",
     price: "$7.20",
     tag: "Signature",
-    image:
-      "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?w=600&q=80",
+    image: "images/crimson-cooler.jpg",
     desc: "Raspberry syrup with citrus bubbles.",
     gradient: "linear-gradient(90deg,#ec4899,#be185d)",
   },
@@ -92,8 +88,7 @@ const drinksData = [
     name: "Wild Berry Fizz",
     price: "$7.00",
     tag: "Fresh",
-    image:
-      "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80",
+    image: "images/wild-berry-fizz.jpg",
     desc: "Mixed berries topped with sparkling tonic.",
     gradient: "linear-gradient(90deg,#db2777,#f43f5e)",
   },
@@ -129,8 +124,7 @@ const drinksData = [
     name: "Rose Bloom",
     price: "$7.30",
     tag: "Romantic",
-    image:
-      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&q=80",
+    image: "images/rose-bloom.jpg",
     desc: "Rose water lemonade with petals.",
     gradient: "linear-gradient(90deg,#f472b6,#fb7185)",
   },
@@ -141,8 +135,7 @@ const drinksData = [
     name: "Violet Mist",
     price: "$7.50",
     tag: "New",
-    image:
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+    image: "images/violet-mist.jpg",
     desc: "Butterfly pea flower with citrus sparkle.",
     gradient: "linear-gradient(90deg,#6366f1,#a855f7)",
   },
@@ -155,8 +148,7 @@ const drinksData = [
     name: "Lemon Spark",
     price: "$6.80",
     tag: "Fresh",
-    image:
-      "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=600&q=80",
+    image: "images/lemon-spark.jpg",
     desc: "Fresh lemon juice with sparkling tonic.",
     gradient: "linear-gradient(90deg,#fde047,#facc15)",
   },
@@ -190,8 +182,7 @@ const drinksData = [
     name: "Sunshine Spritz",
     price: "$7.20",
     tag: "Bright",
-    image:
-      "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=600&q=80",
+    image: "images/sunshine-spritz.jpg",
     desc: "Lemon, orange and sparkling soda.",
     gradient: "linear-gradient(90deg,#fde047,#fb923c)",
   },
