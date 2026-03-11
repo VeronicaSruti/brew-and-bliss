@@ -112,8 +112,7 @@ const drinksData = [
     name: "Lavender Dream",
     price: "$7.40",
     tag: "Elegant",
-    image:
-      "https://images.unsplash.com/photo-1544145945-f90425340c7e?w=600&q=80",
+    image: "images/violet-bloom.jpg",
     desc: "Lavender syrup with citrus mist.",
     gradient: "linear-gradient(90deg,#a78bfa,#8b5cf6)",
   },
